@@ -5,5 +5,7 @@ import "fmt"
 func main() {
 	myNumber := 12
 
+	fmt.Println("main change")
+
 	fmt.Println(myNumber)
 }
