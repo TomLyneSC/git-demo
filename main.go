@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	myNumber := 5
+	myNumber := 9
 
 	fmt.Println(myNumber)
 }
